@@ -1,16 +1,30 @@
 ¡Hola! Soy Fer Pérez
 
-<!--
-**NFernandaPC/NFernandaPC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy especialista en logística, envíos y hospitalidad.
 
-Here are some ideas to get you started:
+ Por más de 12 años me dediqué a brindar servicio y experiencia a comensal en restaurantes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Durante la pandemia tuve la oportunidad de conocer algo ajeno y diferente, la logística y envíos, en lo cual me enfoque por 5 años.
+
+Actualmente estoy haciendo una transición al 'mundo tech', he concluido el programa QA Engineer en Tripleten desenvolviendo habilidades en Python, SQL, Jira, Postman, entre otros.
+
+Gracias a ello, descubrí que me apasiona asegurar la calidad y funcionalidad de los productos de software.
+
+
+
+
+
+He adquirido estas habilidades técnicas:
+
+Lenguaje: JSON | Python | SQL | XML/
+
+
+Herramientas: GIT | Github | PyCharm | Jira | Postman | Android Studio
+
+
+
+
+Contacto:
+(1) Fernanda Pérez Camacho. | LinkedIn
+
+perezcamacho.nayelifernanda@gmail.com 

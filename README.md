@@ -1,5 +1,7 @@
 ¡Hola! Soy Fer Pérez
 
+---------------------------------------------------------------------------------------------------------------------------------
+
 Soy especialista en logística, envíos y hospitalidad.
 
  Por más de 12 años me dediqué a brindar servicio y experiencia a comensal en restaurantes.
@@ -11,7 +13,7 @@ Actualmente estoy haciendo una transición al 'mundo tech', he concluido el prog
 Gracias a ello, descubrí que me apasiona asegurar la calidad y funcionalidad de los productos de software.
 
 
-
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 He adquirido estas habilidades técnicas:
@@ -22,9 +24,18 @@ Lenguaje: JSON | Python | SQL | XML/
 Herramientas: GIT | Github | PyCharm | Jira | Postman | Android Studio
 
 
-
+------------------------------------------------------------------------------------------------------------------------
 
 Contacto:
-(1) Fernanda Pérez Camacho. | LinkedIn
+
+https://www.linkedin.com/in/fernanda-p%C3%A9rez-camacho-nayeli
 
 perezcamacho.nayelifernanda@gmail.com 
+
+--------------------------------------------------------------------------------------------------------------------------
+
+Proyectos:
+
+https://docs.google.com/spreadsheets/d/1LMhG6g9aQkFJjr-Hd7pcq1624w1cv547/edit?usp=sharing&ouid=117438586667405577235&rtpof=true&sd=true
+
+

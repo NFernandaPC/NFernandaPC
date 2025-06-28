@@ -4,7 +4,7 @@
 
 Soy especialista en logística, envíos y hospitalidad.
 
- Por más de 12 años me dediqué a brindar servicio y experiencia a comensal en restaurantes.
+ Por más de 10 años me dediqué a brindar servicio y experiencia a comensal en restaurantes.
 
 Durante la pandemia tuve la oportunidad de conocer algo ajeno y diferente, la logística y envíos, en lo cual me enfoque por 5 años.
 
